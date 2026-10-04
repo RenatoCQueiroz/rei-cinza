@@ -1,6 +1,6 @@
 # Privacy Policy — Rei Cinza
 
-**Last updated:** October 3, 2026
+**Last updated:** October 4, 2026
 **App:** Rei Cinza (package `com.reicinza.diario`)
 **Controller:** Renato Carvalho Queiroz — contact: sobreviventeuniversal@gmail.com
 

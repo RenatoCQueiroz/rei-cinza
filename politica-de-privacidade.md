@@ -1,6 +1,6 @@
 # Política de Privacidade — Rei Cinza
 
-**Última atualização:** 3 de outubro de 2026
+**Última atualização:** 4 de outubro de 2026
 **Aplicativo:** Rei Cinza (pacote `com.reicinza.diario`)
 **Responsável:** Renato Carvalho Queiroz — contato: sobreviventeuniversal@gmail.com
 
